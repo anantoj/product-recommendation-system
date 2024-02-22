@@ -14,7 +14,7 @@ This is a product recommendation system built with Python and Flask. It uses a c
 1. Clone this repository:
 
     ```
-    git clone https://github.com/yourusername/product-recommendation-system.git
+    git clone https://github.com/anantoj/product-recommendation-system.git
     cd product-recommendation-system
     ```
 
