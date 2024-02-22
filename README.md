@@ -27,7 +27,7 @@ This is a product recommendation system built with Python and Flask. It uses a c
 3. Run the application:
 
     ```
-    python app.py
+    flask run
     ```
 
 4. Open your web browser and navigate to `http://localhost:5000`.
