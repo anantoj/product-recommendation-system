@@ -1,0 +1,8 @@
+pandas
+faker
+numpy
+matplotlib
+seaborn
+scikit-surprise
+scikit-learn
+flask
